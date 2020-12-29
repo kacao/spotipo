@@ -75,6 +75,6 @@ timezones==1.9.6
 -e git+https://github.com/unifispot/unifispot-migrate.git@e99a170c7c49c2d02ec4540521fef4d443028221#egg=Unifispot_Migrate
 validators==0.11.0
 webassets==0.12.0
-Werkzeug==0.11.11
+Werkzeug==0.15.3
 WTForms==2.1
 uWSGI==2.0.14

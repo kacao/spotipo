@@ -17,7 +17,7 @@ enum34==1.1.6
 -e git+https://github.com/unifispot/facebook-sdk@ad0a36300bc02720d052072e1d2679a4716003f4#egg=facebook_sdk
 factory-boy==2.7.0
 fake-factory==0.7.2
-Flask==0.11.1
+Flask==1.0
 Flask-Assets==0.12
 Flask-Babel==0.11.1
 Flask-BabelEx==0.9.3

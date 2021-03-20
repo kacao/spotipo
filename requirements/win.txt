@@ -39,7 +39,7 @@ geoip2==2.4.0
 idna==2.1
 ipaddress==1.0.17
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 kombu==3.0.37
 lxml==3.6.4
 Mako==1.0.4
